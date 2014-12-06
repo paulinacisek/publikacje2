@@ -1,17 +1,17 @@
 Publikacja nr 1 
 
 Tytuł: Publikacja o fizyce
-Autor: Paulina Cisek
+Autor: Stanislaw Kowalski, Paulina Cisek
 
 Abstrakt
 Do napisania pozniej
 
 Dane:
-Nasze wspolne dane
+Jeszcze ich nie ma. Generują się
 
 Analiza
-
 Wnioski
-(to napisze Janek)
+
 
 Bibliografia
+...
